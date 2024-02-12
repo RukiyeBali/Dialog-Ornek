@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\DialogBox-Ornek\DialogBox-Ornek\bin\Debug\DialogBox-Ornek.exe.config
+C:\Users\student\Desktop\DialogBox-Ornek\DialogBox-Ornek\bin\Debug\DialogBox-Ornek.exe
+C:\Users\student\Desktop\DialogBox-Ornek\DialogBox-Ornek\bin\Debug\DialogBox-Ornek.pdb
+C:\Users\student\Desktop\DialogBox-Ornek\DialogBox-Ornek\obj\Debug\DialogBox-Ornek.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\DialogBox-Ornek\DialogBox-Ornek\obj\Debug\DialogBox_Ornek.Form1.resources
+C:\Users\student\Desktop\DialogBox-Ornek\DialogBox-Ornek\obj\Debug\DialogBox_Ornek.Properties.Resources.resources
+C:\Users\student\Desktop\DialogBox-Ornek\DialogBox-Ornek\obj\Debug\DialogBox-Ornek.csproj.GenerateResource.cache
+C:\Users\student\Desktop\DialogBox-Ornek\DialogBox-Ornek\obj\Debug\DialogBox-Ornek.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\DialogBox-Ornek\DialogBox-Ornek\obj\Debug\DialogBox-Ornek.exe
+C:\Users\student\Desktop\DialogBox-Ornek\DialogBox-Ornek\obj\Debug\DialogBox-Ornek.pdb

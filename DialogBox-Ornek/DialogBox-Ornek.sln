@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogBox-Ornek", "DialogBox-Ornek\DialogBox-Ornek.csproj", "{EFA0109C-CA7A-4316-A423-A5C30213910C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA0109C-CA7A-4316-A423-A5C30213910C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA0109C-CA7A-4316-A423-A5C30213910C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA0109C-CA7A-4316-A423-A5C30213910C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA0109C-CA7A-4316-A423-A5C30213910C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F234C7F9-4AF4-4C7F-8EA9-E62B2245E1AA}
+	EndGlobalSection
+EndGlobal
